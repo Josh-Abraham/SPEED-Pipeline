@@ -1,0 +1,7 @@
+matplotlib==3.6.1
+MedPy==0.3.0
+numpy==1.23.4
+opencv_python==4.7.0.68
+plotly==5.11.0
+scikit_image==0.19.3
+skimage==0.0
